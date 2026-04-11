@@ -3,3 +3,5 @@
 ## features
 - cpu temp
 - ram percent
+
+## not for windows
